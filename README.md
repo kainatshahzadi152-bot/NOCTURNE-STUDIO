@@ -46,3 +46,4 @@ NOCTURNE STUDIO is a modern, high-fashion clothing brand blending minimalist aes
 ![Brand Logo](./logo.png)
 ![Apparel Mockups](./apparel-mockups.png)
 ![Color Palette](./color-palette.png)
+https://iguana-rnyt87.my.canva.site/beauty-brand-identity-overview
